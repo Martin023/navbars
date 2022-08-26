@@ -1,2 +1,2 @@
 # navbars
-Simple navigation bars formats
+Simple navigation bars formats using css flexbox.
